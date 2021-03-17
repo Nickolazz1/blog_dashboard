@@ -54,7 +54,7 @@ geventhttpclient==1.4.4
 greenlet==1.0.0
 grpcio==1.16.1
 html5lib==1.0.1
-httplib2==0.14.0
+httplib2==0.19.0
 idna==2.8
 ifaddr==0.1.6
 IMDbPY==6.8
